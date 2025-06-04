@@ -15,10 +15,6 @@ Place this folder inside your Balatro `Mods/` directory and activate it in-game
 Open the game go to Mods and activate mod first and then go to Options > Customize Deck 
 ![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022926.png)
 
--How to use 
-Open the game go to Mods and activate mod first and then go to Options > Customize Deck 
-
-
  ## ⚠ Disclaimer
 - This project is a non-commercial fan work.
 - All DJMAX characters, names, and assets are owned by **SEGA** and **Ryu Ga Gotoku Studio**.
