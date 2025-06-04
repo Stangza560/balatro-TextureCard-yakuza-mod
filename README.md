@@ -1,4 +1,8 @@
 # balatro-TextureCard-yakuza-mod
+![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022850.png)
+![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022859.png)
+![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022906.png)
+![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022914.png)
 
  This is a fan-made cosmetic mod for **Balatro**, featuring custom deck skins based on characters from the **Yakuza (Ryu ga Gotoku) series**.
 
@@ -6,6 +10,10 @@
 
 Installation
 Place this folder inside your Balatro `Mods/` directory and activate it in-game
+
+-How to use 
+Open the game go to Mods and activate mod first and then go to Options > Customize Deck 
+![image](https://github.com/Stangza560/balatro-TextureCard-yakuza-mod/blob/main/ASSETS/Screenshot%202025-06-05%20022926.png)
 
 -How to use 
 Open the game go to Mods and activate mod first and then go to Options > Customize Deck 
