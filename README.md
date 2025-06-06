@@ -17,7 +17,7 @@ Open the game go to Mods and activate mod first and then go to Options > Customi
 
  ## ⚠ Disclaimer
 - This project is a non-commercial fan work.
-- All DJMAX characters, names, and assets are owned by **SEGA** and **Ryu Ga Gotoku Studio**.
+- All Yakuza characters, names, and assets are owned by **SEGA** and **Ryu Ga Gotoku Studio**.
 - I do not claim ownership of any Yakuza intellectual property.
 - This mod is not affiliated with or endorsed by SEGA or Ryu Ga Gotoku Studio.
 - If you are a copyright holder and wish this project to be removed, please contact me and I will take it down.
